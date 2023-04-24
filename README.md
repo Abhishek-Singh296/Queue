@@ -9,6 +9,8 @@ The difference between stacks and queues is in removing. In a stack we remove th
 ---
 
 __Basic Operations on Queue:__ 
+
+
 __1.enqueue()__: Inserts an element at the end of the queue i.e. at the rear end.
 
 Steps for enqueue:
