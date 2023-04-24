@@ -10,10 +10,11 @@ The difference between stacks and queues is in removing. In a stack we remove th
 
 __Basic Operations on Queue:__ 
 - __enqueue()__: Inserts an element at the end of the queue i.e. at the rear end.
+
 Steps for enqueue:
-Check the queue is full or not
-If full, print overflow and exit
-If queue is not full, increment tail and add the element
+-- Check the queue is full or not
+-- If full, print overflow and exit
+-- If queue is not full, increment tail and add the element
 
 - __dequeue()__: This operation removes and returns an element that is at the front end of the queue.
 Steps for dequeue:
