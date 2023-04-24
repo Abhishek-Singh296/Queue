@@ -1,6 +1,8 @@
 # Queue
 A queue in C is basically a linear data structure to store and manipulate the data elements. It follows the order of First In First Out (FIFO). In queues, the first element entered into the array is the first element to be removed from the array.It is an ordered list in which insertions are done at one end which is known as the rear and deletions are done from the other end known as the front. A good example of a queue is any queue of consumers for a resource where the consumer that came first is served first. 
 The difference between stacks and queues is in removing. In a stack we remove the item the most recently added; in a queue, we remove the item the least recently added.
+
+
 ![Queue](https://user-images.githubusercontent.com/113619312/234083750-37286d7b-bc2d-41b0-8baa-85782428fb43.png)
 
 __Basic Operations on Queue:__ 
