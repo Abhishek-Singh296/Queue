@@ -12,15 +12,17 @@ __Basic Operations on Queue:__
 - __enqueue()__: Inserts an element at the end of the queue i.e. at the rear end.
 
 Steps for enqueue:
--- Check the queue is full or not
--- If full, print overflow and exit
--- If queue is not full, increment tail and add the element
+- i. Check the queue is full or not
+- ii. If full, print overflow and exit
+- iii. If queue is not full, increment tail and add the element
 
 - __dequeue()__: This operation removes and returns an element that is at the front end of the queue.
+
 Steps for dequeue:
-Check queue is empty or not
-if empty, print underflow and exit
-if not empty, print element at the head and increment head
+- i. Check queue is empty or not
+- ii. If empty, print underflow and exit
+- iii. If not empty, print element at the head and increment head
+
 ---
 
 __Types of Queues:__ 
