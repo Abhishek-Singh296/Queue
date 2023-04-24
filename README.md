@@ -33,3 +33,6 @@ __Types of Queues:__
 Priority Queue: This queue is a special type of queue. Its specialty is that it arranges the elements in a queue based on some priority. The priority can be something where the element with the highest value has the priority so it creates a queue with decreasing order of values. 
 
 ---
+
+## __Code__
+```
